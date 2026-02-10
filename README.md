@@ -90,15 +90,16 @@ pip install -r requirements.txt
 jupyter notebook
 Open Blinkit Analytics.ipynb to explore the full analysis.
 
-📈 Key Insights & Findings
+---
+
+## 📈 Key Insights & Findings
+
 Through data analysis, this project highlights:
 
-Peak sale hours and day-wise performance
-
-Best-selling product categories
-
-Delivery performance trends
-
-Correlations between sales and operational factors
+- Peak sale hours and day-wise performance
+- Best-selling product categories
+- Delivery performance trends
+- Correlations between sales and operational factors
 
 These insights can be used to improve decision-making for pricing, delivery efficiency, and demand forecasting.
+
