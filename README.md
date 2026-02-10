@@ -79,16 +79,18 @@ This dataset serves as the basis for deriving insights related to business and o
 
 ## 🚀 How to Run This Project
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Riddhimaraii/Blinkit-Business-Analytics.git
-2. Navigate to the project directory
-cd Blinkit-Business-Analytics
-3. Install dependencies
-pip install -r requirements.txt
-4. Run the Jupyter Notebook
-jupyter notebook
-Open Blinkit Analytics.ipynb to explore the full analysis.
+## 🚀 How to Run This Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Riddhimaraii/Blinkit-Business-Analytics.git
+2. Navigate to the project folder:
+   bash
+   cd Blinkit-Business-Analytics
+3. Install required dependencies:
+   pip install -r requirements.txt
+4. Run the Jupyter Notebook:
+   jupyter notebook
 
 ---
 
